@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
-  "tag": "v0.1.1",
-  "publishedAt": "2026-09-27T10:57:44.1015048Z",
-  "downloadUrl": "https://github.com/Adel1555/hadith-narrators-encyclopedia-releases/releases/download/v0.1.1/Hadith-Narrators-Encyclopedia-Setup-0.1.1-x64.exe",
-  "releasePage": "https://github.com/Adel1555/hadith-narrators-encyclopedia-releases/releases/tag/v0.1.1",
-  "sha256": "631fc7ffad644982f78e3a2c1dadfcad8951b52043e066fb4a96851c783bfd81",
+  "version": "0.2.0",
+  "tag": "v0.2.0",
+  "publishedAt": "2026-09-27T15:42:07.9967602Z",
+  "downloadUrl": "https://github.com/Adel1555/hadith-narrators-encyclopedia-releases/releases/download/v0.2.0/Hadith-Narrators-Encyclopedia-Setup-0.2.0-x64.exe",
+  "releasePage": "https://github.com/Adel1555/hadith-narrators-encyclopedia-releases/releases/tag/v0.2.0",
+  "sha256": "4c2d5b0ba23f6e5ea69544656ac551df5482dcf4cc978578612ced4bf6cba59f",
   "mandatory": false,
-  "notes": "Windows preview 0.1.1. No production narrator database is bundled."
+  "notes": "Bukhari pilot: 7008 hadiths, 16532 chain segments. Narrator identities are unverified."
 }
