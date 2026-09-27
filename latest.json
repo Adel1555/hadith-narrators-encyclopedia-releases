@@ -1,10 +1,10 @@
 {
-  "version": "0.1.0",
-  "tag": "v0.1.0",
-  "publishedAt": "2026-09-27T06:14:59.9716247Z",
-  "downloadUrl": "https://github.com/Adel1555/hadith-narrators-encyclopedia-releases/releases/download/v0.1.0/Hadith-Narrators-Encyclopedia-Setup-0.1.0-x64.exe",
-  "releasePage": "https://github.com/Adel1555/hadith-narrators-encyclopedia-releases/releases/tag/v0.1.0",
-  "sha256": "c9ce97a3c0385430eff7a175330e5489ca990b8626e44dade2ce09ec18a81421",
+  "version": "0.1.1",
+  "tag": "v0.1.1",
+  "publishedAt": "2026-09-27T10:57:44.1015048Z",
+  "downloadUrl": "https://github.com/Adel1555/hadith-narrators-encyclopedia-releases/releases/download/v0.1.1/Hadith-Narrators-Encyclopedia-Setup-0.1.1-x64.exe",
+  "releasePage": "https://github.com/Adel1555/hadith-narrators-encyclopedia-releases/releases/tag/v0.1.1",
+  "sha256": "631fc7ffad644982f78e3a2c1dadfcad8951b52043e066fb4a96851c783bfd81",
   "mandatory": false,
-  "notes": "Windows preview 0.1.0. No production narrator database is bundled."
+  "notes": "Windows preview 0.1.1. No production narrator database is bundled."
 }
